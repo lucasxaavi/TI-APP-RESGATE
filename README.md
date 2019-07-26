@@ -1,14 +1,11 @@
 # TI APP RESGATE
 **Aplicativo web** de auxilio atendimento
 
-## Desenvolvedor
 **Lucas Xavier**
 
-## Tecnologias utilizadas
-- HTML
-- CSS
-- JavaScript
-- PHP 
+- [X] Montador e Reparador de computador.
+- [X] HTML e CSS.
+- [] Téc de Informatica.
 
 ## Objetivo
 Criar uma aplicação que agilize os atendimentos de parada ***Cardiorrespiratorio***. Esse aplicativo será utilizado por um grupo de
